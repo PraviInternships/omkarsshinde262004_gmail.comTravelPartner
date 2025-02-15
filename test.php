@@ -11,7 +11,7 @@
 <body>
     <header>
         <nav>
-            <div class="logo">TravelBooking</div>
+            <div class="logo">TravelBooking Patner</div>
             <ul>
                 <li><a href="#packages">Packages</a></li>
                 <li><a href="#about">About Us</a></li>
